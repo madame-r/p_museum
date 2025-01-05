@@ -1,7 +1,7 @@
 
 # Museum Collections
 
-This web development project is a digital solution for museums that need to manage their artifacts and exhibits. It aims to streamline artifact cataloging, exhibit scheduling, and search capabilities. Our priority is to enhance accessibility, organization, and the preservation of cultural heritage, enabling museums to connect with their audiences in meaningful and innovative ways.
+This web development project is a digital solution for museums that need to manage their artifacts and exhibits. It aims to streamline artifact cataloging, exhibit scheduling, and search capabilities. The priority is to enhance accessibility, organization, and the preservation of cultural heritage, enabling museums to connect with their audiences in meaningful and innovative ways.
 
 
 
@@ -18,7 +18,7 @@ This web development project is a digital solution for museums that need to mana
 ## Currently
 
 
-![App Screenshot](./00_readme/under_construction.jpg)
+![App Screenshot](./00_readme/coming_soon.jpg)
 
 
 
@@ -42,6 +42,12 @@ Enjoy your stay, have a look at my other repositories and let's get in touch if 
 **Versioning:** Git, Github
 
 
+
+## ❤️ Acknowledgements
+
+Front End
+
+ - [Darwin Laganzon for his Coming Soon image](https://pixabay.com/fr/users/madartzgraphics-3575871/)
 
 
 ## License
