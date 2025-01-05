@@ -15,7 +15,7 @@ This web development project is a digital solution for museums that need to mana
 
 
 
-## Currently
+## Status
 
 
 ![App Screenshot](./00_readme/coming_soon.jpg)
